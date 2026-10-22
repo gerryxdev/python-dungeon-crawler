@@ -86,7 +86,7 @@ hero1 = Player(
 )
 
 hero2 = Player(
-    name="Bettlerin",
+    name="Magierin",
     charname = "Unbekannte",
     endurance=6,
     perception=12,
